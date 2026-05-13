@@ -51,17 +51,10 @@
 
   <!-- Activity Graph (Contributions Chart) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrsze&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Aldrin's GitHub Activity Graph" width="100%" />
-
-  <br><br>
-
-  <!-- Main Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aldrsze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Aldrin's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrsze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
-
   <br><br>
 
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com/?user=aldrsze&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=aldrsze)](https://git.io/streak-stats)
 
   <br><br>
   
