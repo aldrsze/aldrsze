@@ -1,24 +1,88 @@
-# Hi 👋, I'm Aldrin
+<div align="center">
 
-### A passionate full stack developer
+# Hi there, I'm Aldrin! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrsze&label=Profile views&color=0e75b6&style=flat" alt="aldrsze" /> </p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Always+Learning+New+Tech;Building+Cool+Web+Apps" alt="Typing SVG" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aldrsze" alt="aldrsze" /></a> </p>
-
-- 🌱 I'm currently learning **Full stack web development**
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **Aldrinjariel0@gmail.com**
-
-- ⚡ Fun fact **I love programming**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/aldrsze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aldrsze" height="30" width="40" /></a>
-<a href="https://instagram.com/aldrsze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aldrsze" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=aldrsze&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+- 🌱 **Currently deep-diving into:** Advanced Full-Stack Web Development
+- 💡 **Ask me about:** Web Development, Systems, and building scalable apps
+- ⚡ **Fun fact:** I love programming—writing code is my favorite way to solve puzzles!
+- 📫 **How to reach me:** [Aldrinjariel0@gmail.com](mailto:Aldrinjariel0@gmail.com)
+
+---
+
+<h3 align="center">🛠️ Tech Stack & Tools</h3>
+
+<div align="center">
+  
+  **Frontend Architecture & Design**<br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="frontend skills" />
+  
+  <br><br>
+  
+  **Backend & Databases**<br>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,java,mysql,postgres,sqlite" alt="backend skills" />
+
+  <br><br>
+  
+  **Tools, DevOps & AI**<br>
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,postman,arduino" alt="devops and tools" />
+  <br><br>
+  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40" />&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/ollama/000000" alt="ollama" width="40" height="40" />
+
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Stats & Contributions</h3>
+
+<div align="center">
+
+  <!-- Activity Graph (Contributions Chart) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrsze&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Aldrin's GitHub Activity Graph" width="100%" />
+
+  <br><br>
+
+  <!-- Main Stats (Total Commits, Repos, etc.) & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aldrsze&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Aldrin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldrsze&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+
+  <br><br>
+
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aldrsze&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="100%" />
+
+  <br><br>
+  
+  <!-- Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aldrsze&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">🤝 Let's Connect!</h3>
+
+<p align="center">
+  <a href="mailto:Aldrinjariel0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/aldrsze">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://instagram.com/aldrsze">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
