@@ -2,7 +2,7 @@
 
 # Hi there, I'm Aldrin! 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Passionate+Full+Stack+Developer;Always+Learning+New+Tech;Building+Cool+Web+Apps" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;Always+Learning+New+Tech;Building+Web+Apps" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aldrsze&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
