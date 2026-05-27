@@ -1,8 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Aldrin! 👋
+# Hi, I'm Aldrin Jariel 👋
+### Full-Stack Web Developer & Software Engineer
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Passionate+Software+Engineer;Always+Learning+New+Tech;Building+Web+Apps" alt="Typing SVG" /></a>
+<a href="https://aldrsze.is-pinoy.dev" target="_blank">🌐 aldrsze.is-pinoy.dev</a> | <a href="mailto:Aldrinjariel0@gmail.com">✉️ Aldrinjariel0@gmail.com</a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+Scalable+SaaS+Solutions;Integrating+AI+%26+Hardware" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aldrsze&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
@@ -12,53 +15,61 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💻 Professional Summary
 
-- 🌱 **Currently deep-diving into:** Advanced Full-Stack Web Development
-- 💡 **Ask me about:** Web Development, Systems, and building scalable apps
-- ⚡ **Fun fact:** I love programming—writing code is my favorite way to solve puzzles!
-- 📫 **How to reach me:** [Aldrinjariel0@gmail.com](mailto:Aldrinjariel0@gmail.com)
+I am a Full-Stack Developer specializing in building robust, scalable web applications and engineering end-to-end solutions for SaaS and e-commerce platforms. Currently working at **Terminal71**, I bridge the gap between complex backend architectures and seamless, user-friendly frontend interfaces. Beyond traditional web development, I actively integrate AI capabilities and hardware (Arduino) into practical, real-world systems.
+
+- 💼 **Current Role:** Full-Stack Developer at Terminal71
+- 🚀 **Core Focus:** Advanced Web Development, API Architecture, AI Integration, and System Management.
+- 💡 **Value Proposition:** Delivering secure, scalable, and high-performance applications tailored to business needs.
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
+<h3 align="center">🛠️ Technical Arsenal</h3>
 
 <div align="center">
   
-  **Frontend Architecture & Design**<br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma" alt="frontend skills" />
+  **Frontend Architecture**<br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="frontend skills" />
   
   <br><br>
   
   **Backend & Databases**<br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,java,mysql,postgres,sqlite" alt="backend skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,java,mysql,postgres,sqlite,supabase" alt="backend skills" />
 
   <br><br>
   
-  **Tools, DevOps & AI**<br>
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,bash,postman,arduino" alt="devops and tools" />
+  **DevOps, Tools & AI**<br>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman,figma,arduino,vscode" alt="devops and tools" />
   <br><br>
-  <img src="https://cdn.simpleicons.org/huggingface/FFD21E" alt="huggingface" width="40" height="40" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/000000" alt="ollama" width="40" height="40" />
-
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="GitHub Copilot" />
 </div>
 
 ---
 
-<h3 align="center">📊 GitHub Stats & Contributions</h3>
+### 🚀 Featured Projects
+
+* **[Clover-Ecommerce](https://github.com/aldrsze/Clover-Ecommerce):** A comprehensive full-stack e-commerce platform featuring cart management, secure checkout, and payment integration.
+* **[SmartStock Inventory System](https://github.com/aldrsze/SmartStock-Inventory-Management-System):** A real-time, QR-enabled retail inventory management system designed to streamline local business operations.
+* **[Trakki](https://github.com/aldrsze/Trakki):** A Python-based GUI application built for robust tracking of daily expenses and budget management.
+* **[Project Delos](https://github.com/aldrsze/project-delos):** A lightweight, high-performance PDF reader and viewer engineered using Java Swing.
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <div align="center">
 
-  <!-- Activity Graph (Contributions Chart) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrsze&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Aldrin's GitHub Activity Graph" width="100%" />
   <br><br>
 
-  <!-- Contribution Streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=aldrsze)](https://git.io/streak-stats)
-
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=aldrsze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
   <br><br>
   
-  <!-- Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=aldrsze&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   </a>
@@ -66,16 +77,16 @@
 
 ---
 
-<h3 align="center">🤝 Let's Connect!</h3>
+<h3 align="center">🤝 Let's Collaborate</h3>
 
 <p align="center">
   <a href="mailto:Aldrinjariel0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/aldrsze">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://www.linkedin.com/in/jariel-aldrin-miguel-a-786771411">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/aldrsze">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://aldrsze.is-pinoy.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
