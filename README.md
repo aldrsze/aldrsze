@@ -65,11 +65,6 @@ I am a Full-Stack Developer specializing in building robust, scalable web applic
     <img src="https://streak-stats.demolab.com?user=aldrsze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
   <br><br>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aldrsze&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
 
 ---
 
