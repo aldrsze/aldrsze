@@ -17,15 +17,11 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a Full-Stack Developer specializing in building robust, scalable web applications and engineering end-to-end solutions for SaaS and e-commerce platforms. Currently working at **Terminal71**, I bridge the gap between complex backend architectures and seamless, user-friendly frontend interfaces. Beyond traditional web development, I actively integrate AI capabilities and hardware (Arduino) into practical, real-world systems.
-
-- 💼 **Current Role:** Full-Stack Developer at Terminal71
-- 🚀 **Core Focus:** Advanced Web Development, API Architecture, AI Integration, and System Management.
-- 💡 **Value Proposition:** Delivering secure, scalable, and high-performance applications tailored to business needs.
+I am a Full-Stack Developer specializing in building robust, scalable web applications and engineering end-to-end solutions for SaaS and e-commerce platforms. Currently studying **Bachelor of Science in Information Technology** at **Quezon City Univesity** , I bridge the gap between complex backend architectures and seamless, user-friendly frontend interfaces. Beyond traditional web development, I actively integrate AI capabilities and hardware (Arduino) into practical, real-world systems
 
 ---
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
+<h3 align="center">🛠️ Skills</h3>
 
 <div align="center">
   
