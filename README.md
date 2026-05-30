@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Aldrin Jariel 👋
-### Aspiring Software Engineer
+### Aspiring Software Engineer / Full Stack Web Developer
 
 <a href="https://aldrsze.is-pinoy.dev" target="_blank">🌐 aldrsze.is-pinoy.dev</a> | <a href="mailto:Aldrinjariel0@gmail.com">✉️ Aldrinjariel0@gmail.com</a>
 
