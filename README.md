@@ -5,7 +5,7 @@
 
 <a href="https://aldrsze.is-pinoy.dev" target="_blank">🌐 aldrsze.is-pinoy.dev</a> | <a href="mailto:Aldrinjariel0@gmail.com">✉️ Aldrinjariel0@gmail.com</a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+Scalable+SaaS+Solutions;Integrating+AI+%26+Hardware" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+Scalable+Websites;Integrating+Artificial+Intelligence" alt="Typing SVG" /></a>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=aldrsze&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
