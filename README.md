@@ -47,6 +47,7 @@ I am a Full-Stack Developer specializing in building robust, scalable web applic
 
 ### 🚀 Featured Projects
 
+* **[Voicio](https://github.com/aldrsze/Voicio):** A hybrid Text-to-Speech web application that combines browser-based model caching with a stateless FastAPI backend for efficient, scalable speech synthesis.
 * **[Clover-Ecommerce](https://github.com/aldrsze/Clover-Ecommerce):** A comprehensive full-stack e-commerce platform featuring cart management, secure checkout, and payment integration.
 * **[SmartStock Inventory System](https://github.com/aldrsze/SmartStock-Inventory-Management-System):** A real-time, QR-enabled retail inventory management system designed to streamline local business operations.
 * **[Trakki](https://github.com/aldrsze/Trakki):** A Python-based GUI application built for robust tracking of daily expenses and budget management.
