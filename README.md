@@ -17,7 +17,7 @@
 
 ### 👨‍💻 Professional Summary
 
-I am a Full-Stack Developer specializing in building robust, scalable web applications and engineering end-to-end solutions for SaaS and e-commerce platforms. Currently studying **Bachelor of Science in Information Technology** at **Quezon City Univesity**, I bridge the gap between complex backend architectures and seamless, user-friendly frontend interfaces. Beyond traditional web development, I actively integrate AI capabilities and applications into practical, real-world systems.
+I am a Full-Stack Developer specializing in building robust, scalable web applications and engineering end-to-end solutions. Currently studying **Bachelor of Science in Information Technology** at **Quezon City Univesity**, I bridge the gap between complex backend architectures and seamless, user-friendly frontend interfaces. Beyond traditional web development, I actively integrate AI capabilities and applications into practical, real-world systems.
 
 ---
 
