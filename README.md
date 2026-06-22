@@ -17,5 +17,3 @@
 [![Trakki ⭐ 2](https://www.shieldcn.dev/github/stars/aldrsze/Trakki.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Trakki) [![Voicio ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/Voicio.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Voicio) [![Clover-Ecommerce ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/Clover-Ecommerce.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Clover-Ecommerce) [![aldrsze ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/aldrsze.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/aldrsze) [![draw-a-cat-face ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/draw-a-cat-face.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/draw-a-cat-face) [![project-delos ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/project-delos.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/project-delos)
 
 ---
-
-<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
