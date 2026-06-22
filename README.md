@@ -1,84 +1,21 @@
 <div align="center">
 
-# Hi, I'm Aldrin Jariel 👋
-### Aspiring Software Engineer / Full Stack Web Developer
+# Hi, I'm Aldrin 👋
 
-<a href="https://aldrsze.is-pinoy.dev" target="_blank">🌐 aldrsze.is-pinoy.dev</a> | <a href="mailto:Aldrinjariel0@gmail.com">✉️ Aldrinjariel0@gmail.com</a>
+[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40aldrsze-181717.svg?logo=github&variant=branded&font=jetbrains-mono)](https://github.com/aldrsze) [![Website](https://www.shieldcn.dev/badge/Website-aldrsze.is--pinoy.dev-181717.svg?logo=ri%3ALuLink&variant=branded&font=jetbrains-mono)](https://aldrsze.is-pinoy.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40jariel--aldrin--miguel--a--786771411-0A66C2.svg?logo=linkedin&variant=branded&font=jetbrains-mono)](https://www.linkedin.com/in/jariel-aldrin-miguel-a-786771411)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=Full-Stack+Web+Developer;Building+Scalable+Websites;Integrating+Artificial+Intelligence" alt="Typing SVG" /></a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=aldrsze&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
+[![GitHub Followers](https://www.shieldcn.dev/github/followers/aldrsze.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/aldrsze.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-11-2563eb.svg?logo=github&variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Quezon_City%2C_Philippines-6366f1.svg?logo=googlemaps&variant=ghost&font=jetbrains-mono) ![Company](https://www.shieldcn.dev/badge/Company-Terminal71--Corporation_-1f2937.svg?logo=building&variant=ghost&font=jetbrains-mono)
 
 </div>
 
----
+## 🛠️ Skills & Technologies
 
-### 👨‍💻 Professional Summary
+![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&font=jetbrains-mono) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&font=jetbrains-mono) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&font=jetbrains-mono) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&font=jetbrains-mono) ![Supabase](https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&font=jetbrains-mono) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&font=jetbrains-mono) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&font=jetbrains-mono) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&font=jetbrains-mono)
 
-I am a Full-Stack Developer specializing in building robust, scalable web applications and engineering end-to-end solutions. Currently studying **Bachelor of Science in Information Technology** at **Quezon City Univesity**, I bridge the gap between complex backend architectures and seamless, user-friendly frontend interfaces. Beyond traditional web development, I actively integrate AI capabilities and applications into practical, real-world systems.
+## 📦 Top Repositories
 
----
-
-<h3 align="center">🛠️ Skills</h3>
-
-<div align="center">
-  
-  **Frontend Architecture**<br>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="frontend skills" />
-  
-  <br><br>
-  
-  **Backend & Databases**<br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,java,mysql,postgres,sqlite,supabase" alt="backend skills" />
-
-  <br><br>
-  
-  **DevOps, Tools & AI**<br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,bash,postman,figma,arduino,vscode" alt="devops and tools" />
-  <br><br>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-FFFFFF?style=for-the-badge&logo=githubcopilot&logoColor=black" alt="GitHub Copilot" />
-</div>
+[![Trakki ⭐ 2](https://www.shieldcn.dev/github/stars/aldrsze/Trakki.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Trakki) [![Voicio ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/Voicio.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Voicio) [![Clover-Ecommerce ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/Clover-Ecommerce.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Clover-Ecommerce) [![aldrsze ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/aldrsze.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/aldrsze) [![draw-a-cat-face ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/draw-a-cat-face.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/draw-a-cat-face) [![project-delos ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/project-delos.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/project-delos)
 
 ---
 
-### 🚀 Featured Projects
-
-* **[Voicio](https://github.com/aldrsze/Voicio):** A hybrid Text-to-Speech web application that combines browser-based model caching with a stateless FastAPI backend for efficient, scalable speech synthesis.
-* **[Clover-Ecommerce](https://github.com/aldrsze/Clover-Ecommerce):** A comprehensive full-stack e-commerce platform featuring cart management, secure checkout, and payment integration.
-* **[SmartStock Inventory System](https://github.com/aldrsze/SmartStock-Inventory-Management-System):** A real-time, QR-enabled retail inventory management system designed to streamline local business operations.
-* **[Trakki](https://github.com/aldrsze/Trakki):** A Python-based GUI application built for robust tracking of daily expenses and budget management.
-* **[Project Delos](https://github.com/aldrsze/project-delos):** A lightweight, high-performance PDF reader and viewer engineered using Java Swing.
-
----
-
-<h3 align="center">📊 GitHub Analytics</h3>
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aldrsze&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Aldrin's GitHub Activity Graph" width="100%" />
-  <br><br>
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=aldrsze&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-  <br><br>
-
----
-
-<h3 align="center">🤝 Let's Collaborate</h3>
-
-<p align="center">
-  <a href="mailto:Aldrinjariel0@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/jariel-aldrin-miguel-a-786771411">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://aldrsze.is-pinoy.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
+<sub>Badges generated with [shieldcn](https://shieldcn.dev/gen/profile)</sub>
