@@ -12,8 +12,5 @@
 
 ![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&font=jetbrains-mono) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&font=jetbrains-mono) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&font=jetbrains-mono) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&font=jetbrains-mono) ![Supabase](https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&font=jetbrains-mono) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&font=jetbrains-mono) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&font=jetbrains-mono) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&font=jetbrains-mono)
 
-## 📦 Top Repositories
-
-[![Trakki ⭐ 2](https://www.shieldcn.dev/github/stars/aldrsze/Trakki.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Trakki) [![Voicio ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/Voicio.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Voicio) [![Clover-Ecommerce ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/Clover-Ecommerce.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/Clover-Ecommerce) [![aldrsze ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/aldrsze.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/aldrsze) [![draw-a-cat-face ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/draw-a-cat-face.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/draw-a-cat-face) [![project-delos ⭐ 1](https://www.shieldcn.dev/github/stars/aldrsze/project-delos.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze/project-delos)
-
----
+##
+[![Badge](https://badges.is-pinoy.dev/banner/yourname?type=profile&theme=gold)](https://yourname.is-pinoy.dev)
