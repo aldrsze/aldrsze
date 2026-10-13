@@ -1,16 +1,43 @@
-<div align="center">
+# Aldrin Jariel
 
-# Hi, I'm Aldrin 👋
+Software Developer — Metro Manila, Philippines  
+Personal site: https://aldrinjariel.dev
 
-[![GitHub](https://www.shieldcn.dev/badge/GitHub-%40aldrsze-181717.svg?logo=github&variant=branded&font=jetbrains-mono)](https://github.com/aldrsze) [![Website](https://www.shieldcn.dev/badge/Website-aldrsze.is--pinoy.dev-181717.svg?logo=ri%3ALuLink&variant=branded&font=jetbrains-mono)](https://aldrsze.is-pinoy.dev) [![LinkedIn](https://www.shieldcn.dev/badge/LinkedIn-%40jariel--aldrin--miguel--a--786771411-0A66C2.svg?logo=linkedin&variant=branded&font=jetbrains-mono)](https://www.linkedin.com/in/jariel-aldrin-miguel-a-786771411)
+---
 
-[![GitHub Followers](https://www.shieldcn.dev/github/followers/aldrsze.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze?tab=followers) [![GitHub Stars](https://www.shieldcn.dev/github/user-stars/aldrsze.svg?variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze?tab=repositories) [![Public Repos](https://www.shieldcn.dev/badge/Repos-11-2563eb.svg?logo=github&variant=secondary&font=jetbrains-mono)](https://github.com/aldrsze?tab=repositories) ![Location](https://www.shieldcn.dev/badge/Location-Quezon_City%2C_Philippines-6366f1.svg?logo=googlemaps&variant=ghost&font=jetbrains-mono)
+## About
 
-</div>
+I am currently a sophomore software developer working on full-stack web applications and software systems. My focus is on practical software, clean architecture, and local-first computing.
 
-## 🛠️ Skills & Technologies
+---
 
-![Java](https://www.shieldcn.dev/badge/-Java-ED8B00.svg?logo=openjdk&variant=branded&font=jetbrains-mono) ![JavaScript](https://www.shieldcn.dev/badge/-JavaScript-F7DF1E.svg?logo=javascript&variant=branded&font=jetbrains-mono) ![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&font=jetbrains-mono) ![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&font=jetbrains-mono) ![Supabase](https://www.shieldcn.dev/badge/-Supabase-3FCF8E.svg?logo=supabase&variant=branded&font=jetbrains-mono) ![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&font=jetbrains-mono) ![ESLint](https://www.shieldcn.dev/badge/-ESLint-4B32C3.svg?logo=eslint&variant=branded&font=jetbrains-mono) ![Vite](https://www.shieldcn.dev/badge/-Vite-646CFF.svg?logo=vite&variant=branded&font=jetbrains-mono)
+## Selected Projects
 
-##
-[![Badge](https://badges.is-pinoy.dev/banner/aldrsze?type=profile&theme=gold)](https://aldrsze.is-pinoy.dev)
+- **Vimply** — Browser-based Vim motion learning platform featuring 30 structured chapters, Groq-powered AI tutoring, and an interactive cheat sheet.  
+  [https://vimply-delta.vercel.app](https://vimply-delta.vercel.app)
+
+- **Voicio** — Hybrid text-to-speech system combining browser model caching with a stateless FastAPI backend.  
+  [https://github.com/aldrsze/Voicio](https://github.com/aldrsze/Voicio)
+
+- **SmartStock-IMS** — Java inventory management system featuring QR code workflows and multi-user support.  
+  [https://github.com/aldrsze/SmartStock-IMS](https://github.com/aldrsze/SmartStock-IMS)
+
+- **Trakki** — Python desktop application for personal income, expense, and savings tracking.  
+  [https://github.com/aldrsze/Trakki](https://github.com/aldrsze/Trakki)
+
+---
+
+## Technical Skills
+
+- Languages: TypeScript, JavaScript, Python, Java, SQL
+- Frameworks & Libraries: React, Next.js, Node.js, FastAPI, Vite
+- Platforms & Tools: Supabase, Linux, Git, Bash
+
+---
+
+## Links & Contact
+
+- Website: [https://aldrinjariel.dev](https://aldrinjariel.dev)
+- GitHub: [https://github.com/aldrsze](https://github.com/aldrsze)
+- LinkedIn: [https://www.linkedin.com/in/jariel-aldrin-miguel-a-786771411](https://www.linkedin.com/in/jariel-aldrin-miguel-a-786771411)
+- Repositories: [https://github.com/aldrsze?tab=repositories](https://github.com/aldrsze?tab=repositories)
