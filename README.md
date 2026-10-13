@@ -27,11 +27,24 @@ I am currently a sophomore software developer working on full-stack web applicat
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-- Languages: TypeScript, JavaScript, Python, Java, SQL
-- Frameworks & Libraries: React, Next.js, Node.js, FastAPI, Vite
-- Platforms & Tools: Supabase, Linux, Git, Bash
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Windows Forms
+- **Backend**: Node.js, Express, Python, FastAPI, Flask, Java, C#, MySQL, PostgreSQL, SQLite, Supabase
+- **DevOps & Cloud**: Docker, Linux, Bash, GitHub Actions
+- **AI & Machine Learning**: Claude, GitHub Copilot, Gemini, Open Code, ChatGPT
+- **Developer Tools**: Git, GitHub, VS Code, Antigravity, Vim, Nvim, Eclipse, Postman, Figma, Framer, Excalidraw, Render, Vercel, Discord
+
+---
+
+## Hardware & Environment
+
+- **Operating Systems**: Arch Linux, Windows
+- **Editing Workflow**: Vim motions (proficient)
+- **Laptop**: Dell Latitude 3400 (Intel Core i3 8th Gen, 8GB RAM)
+- **Desktop PC**: AMD A8-7600, 12GB RAM
+- **Monitor**: Nvision N2410
+- **Keyboard**: AULA F3261
 
 ---
 
