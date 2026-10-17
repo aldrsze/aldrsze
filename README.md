@@ -1,7 +1,7 @@
 # Aldrin Jariel
 
 Software Developer — Metro Manila, Philippines  
-Personal site: https://aldrinjariel.dev
+Personal website: https://aldrinjariel.dev
 
 ---
 
@@ -17,7 +17,7 @@ I am currently a sophomore software developer working on full-stack web applicat
   [https://vimply-delta.vercel.app](https://vimply-delta.vercel.app)
 
 - **Voicio** — Hybrid text-to-speech system combining browser model caching with a stateless FastAPI backend.  
-  [https://github.com/aldrsze/Voicio](https://github.com/aldrsze/Voicio)
+  [https://voicio-five.vercel.app/](https://voicio-five.vercel.app/)
 
 - **SmartStock-IMS** — Java inventory management system featuring QR code workflows and multi-user support.  
   [https://github.com/aldrsze/SmartStock-IMS](https://github.com/aldrsze/SmartStock-IMS)
