@@ -6,7 +6,13 @@ I am currently a sophomore software developer working on full-stack web applicat
 
 ---
 
-## Selected Projects
+## Projects
+
+# Currently working on:
+-  **Evently** - a hybrid web/destop application for managing events and attendees.
+  [https://github.com/aldrsze/evently-project](https://github.com/aldrsze/evently-project)
+
+---
 
 - **Vimply** — Browser-based Vim motion learning platform featuring 30 structured chapters, Groq-powered AI tutoring, and an interactive cheat sheet.  
   [https://vimply.aldrinjariel.dev/](https://vimply.aldrinjariel.dev/)
