@@ -1,13 +1,9 @@
 # Aldrin Jariel
 
+I am currently a sophomore software developer working on full-stack web applications and software systems. My focus is on practical software, clean architecture, and local-first computing.
+
 Software Developer — Metro Manila, Philippines  
 Personal website: https://aldrinjariel.dev
-
----
-
-## About
-
-I am currently a sophomore software developer working on full-stack web applications and software systems. My focus is on practical software, clean architecture, and local-first computing.
 
 ---
 
