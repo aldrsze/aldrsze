@@ -9,22 +9,22 @@ I am currently a sophomore software developer working on full-stack web applicat
 ## Projects
 
 **Currently working on:**
--  **Evently** - a hybrid web/destop application for managing events and attendees.
-  [https://github.com/aldrsze/evently-project](https://github.com/aldrsze/evently-project)
+-  **Evently** - A hybrid web/destop application for managing events and attendees.
+[https://github.com/aldrsze/evently-project](https://github.com/aldrsze/evently-project)
 
 ---
 
 - **Vimply** — Browser-based Vim motion learning platform featuring 30 structured chapters, Groq-powered AI tutoring, and an interactive cheat sheet.  
-  [https://vimply.aldrinjariel.dev/](https://vimply.aldrinjariel.dev/)
+[https://vimply.aldrinjariel.dev/](https://vimply.aldrinjariel.dev/)
 
 - **Voicio** — Hybrid text-to-speech system combining browser model caching with a stateless FastAPI backend.  
-  [https://voicio.aldrinjariel.dev/](https://voicio.aldrinjariel.dev/)
+[https://voicio.aldrinjariel.dev/](https://voicio.aldrinjariel.dev/)
 
 - **SmartStock-IMS** — Java inventory management system featuring QR code workflows and multi-user support.  
-  [https://github.com/aldrsze/SmartStock-IMS](https://github.com/aldrsze/SmartStock-IMS)
+[https://github.com/aldrsze/SmartStock-IMS](https://github.com/aldrsze/SmartStock-IMS)
 
 - **Trakki** — Python desktop application for personal income, expense, and savings tracking.  
-  [https://github.com/aldrsze/Trakki](https://github.com/aldrsze/Trakki)
+[https://github.com/aldrsze/Trakki](https://github.com/aldrsze/Trakki)
 
 ---
 
