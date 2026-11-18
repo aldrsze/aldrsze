@@ -9,7 +9,7 @@ I am currently a sophomore software developer working on full-stack web applicat
 ## Projects
 
 **Currently working on:**
--  **Evently** - A hybrid web/destop application for managing events and attendees.
+-  **Evently** - A hybrid web/destop application for managing events and attendees.  
 [https://github.com/aldrsze/evently-project](https://github.com/aldrsze/evently-project/)
 
 ---
